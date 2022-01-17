@@ -1,4 +1,8 @@
 public class UserController{
 
+public String getMessage(){
+
+    return "Welcome to GITHUB";
+}
 
 }
