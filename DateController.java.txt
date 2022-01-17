@@ -1,0 +1,8 @@
+public class DateController{
+
+public String getDate(){
+
+    return "Welcome to GITHUB";
+}
+
+}
